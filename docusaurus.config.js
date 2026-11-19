@@ -48,7 +48,7 @@ const config = {
       },
       navbar: {
         title: '107T White Paper Series',
-        logo: {
+        logo: {blaze15_0016.jpg
           alt: 'Series mark',
           src: 'img/zombie.svg',
         },
