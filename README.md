@@ -22,7 +22,7 @@ Do these steps once, at the start of the project.
 Your site is now live at:
  
 ```
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+https://GabeVentura23.github.io/Taco-Tuesssdayyyy/
 ```
  
 > **Seeing a skipped or failed run in Actions?** That's the automatic run from when you created your copy, before Pages was turned on. It's expected. Step 4 fixes it.
